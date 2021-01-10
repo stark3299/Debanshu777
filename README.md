@@ -82,12 +82,6 @@ mentor newbies 👨🏻‍💻.
 
 <details>
   <summary>:zap: Blog Posts</summary>
-  
-### Blog Posts:
-<a href="https://medium.com/@debanshudatta123">
-<img src="https://github-readme-medium.vercel.app/?username=debanshudatta123&limit=3"/>
-</a>
-</details>
 
 <div align="center">
 
